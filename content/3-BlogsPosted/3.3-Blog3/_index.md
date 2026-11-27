@@ -12,7 +12,7 @@ Security teams rarely suffer from a shortage of alerts—they suffer from a shor
 
 This AWS Marketplace Blog post (co-authored with two writers from Arctic Wolf) explains how **Arctic Wolf** combines AI agents with its **Concierge Security Team** to turn raw AWS security findings into actionable decisions.
 
-![Arctic Wolf Event-Driven Ingestion Pipeline on AWS](/static/images/3-BlogsPosted/blog3-aurora-soc.jpg)
+![Arctic Wolf Event-Driven Ingestion Pipeline on AWS](/images/3-BlogsPosted/blog3-aurora-soc.jpg)
 
 ### Core Architecture Components
 

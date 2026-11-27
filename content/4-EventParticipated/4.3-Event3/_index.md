@@ -82,4 +82,4 @@ Moving forward, I hope to apply the knowledge gained from these experiences to m
 
 #### Some event photos
 
-![Event 1121](/static/images/event3.jpg)
+![Event 1121](/images/event3.jpg)

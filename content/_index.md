@@ -19,7 +19,7 @@ chapter: false
 
 &emsp; **Major:** Information Technology
 
-&emsp; **Class:** AWS082025
+&emsp; **Class:** SE190325
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
@@ -27,7 +27,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 14/09/2026 to 14/12/2026
 
-![Your profile picture](/static/images/avatar.jpg)
+![Your profile picture](/images/avatar.jpg)
 
 ### Report Content
 

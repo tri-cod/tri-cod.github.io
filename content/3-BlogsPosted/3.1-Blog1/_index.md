@@ -12,7 +12,7 @@ Medical coding is the process of translating free-text clinical phrases such as 
 
 AWS presents a reference pattern that resolves this tension by letting a deterministic workflow control the execution order while constraining the agent to make judgments inside a bounded step.
 
-![Medical Coding Architecture with Step Functions and Amazon Bedrock AgentCore](/static/images/3-BlogsPosted/blog1-agentcore.jpg)
+![Medical Coding Architecture with Step Functions and Amazon Bedrock AgentCore](/images/3-BlogsPosted/blog1-agentcore.jpg)
 
 ### Core Architecture Components
 

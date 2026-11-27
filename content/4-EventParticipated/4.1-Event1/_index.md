@@ -48,4 +48,4 @@ My first step this week is to audit my personal AI Agent project against those t
 
 #### Some event photos
 
-![Event 2006](/static/images/event1.jpg)
+![Event 2006](/images/event1.jpg)

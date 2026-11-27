@@ -12,7 +12,7 @@ Các đội bảo mật thường không thiếu cảnh báo mà thiếu năng l
 
 Bài viết trên AWS Marketplace Blog (có hai tác giả đến từ Arctic Wolf) giới thiệu cách **Arctic Wolf**, có trên AWS Marketplace, kết hợp AI agent với đội ngũ chuyên gia **Concierge Security** để biến các phát hiện trên AWS thành quyết định.
 
-![Đường ống nạp dữ liệu hướng sự kiện của Arctic Wolf trên AWS](/static/images/3-BlogsPosted/blog3-aurora-soc.jpg)
+![Đường ống nạp dữ liệu hướng sự kiện của Arctic Wolf trên AWS](/images/3-BlogsPosted/blog3-aurora-soc.jpg)
 
 ### Các thành phần chính
 

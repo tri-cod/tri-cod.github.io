@@ -12,7 +12,7 @@ When integrating AI into games, the hardest engineering challenge is often not c
 
 The AWS for Games Blog post highlights that **Amazon DynamoDB**—already widely used in game backends for player profiles, inventories, leaderboards, and session state—now introduces four enhancements tailored for AI-powered game workloads.
 
-![AI-Powered Game Backend Architecture with Amazon DynamoDB](/static/images/3-BlogsPosted/blog2-dynamodb.jpg)
+![AI-Powered Game Backend Architecture with Amazon DynamoDB](/images/3-BlogsPosted/blog2-dynamodb.jpg)
 
 ### Four Key Amazon DynamoDB Enhancements
 

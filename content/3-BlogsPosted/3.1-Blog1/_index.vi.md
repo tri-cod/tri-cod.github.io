@@ -12,7 +12,7 @@ Mã hóa y khoa (medical coding) là việc chuyển các cụm từ lâm sàng 
 
 AWS giới thiệu một giải pháp mẫu giải quyết vấn đề này bằng cách để workflow quyết định thứ tự xử lý, còn agent chỉ phán đoán trong một bước có giới hạn.
 
-![Kiến trúc Tự động hóa mã hóa y khoa với Step Functions và Amazon Bedrock AgentCore](/static/images/3-BlogsPosted/blog1-agentcore.jpg)
+![Kiến trúc Tự động hóa mã hóa y khoa với Step Functions và Amazon Bedrock AgentCore](/images/3-BlogsPosted/blog1-agentcore.jpg)
 
 ### Các thành phần chính
 

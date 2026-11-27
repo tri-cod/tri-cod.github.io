@@ -12,7 +12,7 @@ Khi đưa AI vào game, bài toán khó nhất thường không phải chọn m�
 
 Bài viết trên AWS for Games Blog cho rằng DynamoDB, vốn đã được nhiều backend game dùng cho hồ sơ người chơi, kho đồ, bảng xếp hạng và trạng thái phiên, nay có bốn cải tiến phục vụ trực tiếp backend game dùng AI.
 
-![Kiến trúc backend game dùng AI với các tính năng mới của Amazon DynamoDB](/static/images/3-BlogsPosted/blog2-dynamodb.jpg)
+![Kiến trúc backend game dùng AI với các tính năng mới của Amazon DynamoDB](/images/3-BlogsPosted/blog2-dynamodb.jpg)
 
 ### Bốn cải tiến chính của Amazon DynamoDB
 

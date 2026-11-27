@@ -81,4 +81,4 @@ Trong thời gian tới, tôi hy vọng có thể vận dụng những kiến th
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-![Event 1121](/static/images/event3.jpg)
+![Event 1121](/images/event3.jpg)

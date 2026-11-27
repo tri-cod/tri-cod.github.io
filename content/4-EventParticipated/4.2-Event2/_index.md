@@ -90,6 +90,6 @@ For anyone who is beginning their journey in Cloud Computing or AI, I would reco
 
 #### Some event photos
 
-![Event 1114](/static/images/event2.jpg)
+![Event 1114](/images/event2.jpg)
 
 > Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
