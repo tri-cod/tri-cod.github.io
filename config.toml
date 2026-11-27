@@ -1,4 +1,4 @@
-baseURL = "https://tri-cod.github.io/caotri.github.io/"
+baseURL = "https://tri-cod.github.io/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
